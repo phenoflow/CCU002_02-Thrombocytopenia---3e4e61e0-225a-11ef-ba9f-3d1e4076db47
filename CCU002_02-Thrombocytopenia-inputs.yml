@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/ccu002_02-thrombocytopenia-thrombocytopaenia---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-thrombocytopenia-induced---primary.py
+inputModule4:
+  class: File
+  path: python/hereditary-ccu002_02-thrombocytopenia---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-thrombocytopenia-acquired---primary.py
+inputModule6:
+  class: File
+  path: python/defective-ccu002_02-thrombocytopenia---primary.py
+inputModule7:
+  class: File
+  path: python/primary-ccu002_02-thrombocytopenia---primary.py
+inputModule8:
+  class: File
+  path: python/ccu002_02-thrombocytopenia---primary.py
+inputModule9:
+  class: File
+  path: python/secondary-ccu002_02-thrombocytopenia---primary.py
+inputModule10:
+  class: File
+  path: python/thrombotic-ccu002_02-thrombocytopenia---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
